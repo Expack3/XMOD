@@ -6,6 +6,11 @@ Originally built for as a capstone project for the Davenport Technology Class of
 * Actual code uses ~624KB of memory
 * It Just Works - give it what it needs, and it gets to work, no questions asked.
 
+## Requirements
+* The latest version of DirectX 9.
+* Visual Studio 2010 or later.
+* [XNA 4.0](http://www.microsoft.com/en-us/download/details.aspx?id=20914)
+
 ## Directory Structure
 * **XNA**: This contains the source code for the original XNA implementation of XMOD.
 * (coming soon) **MonoGame**: When added, this will contain the source code for the MonoGame implementation of XMOD.
